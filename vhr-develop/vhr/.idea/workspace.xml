@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33ac0789-4364-44db-b776-578ad233f7a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xiaojuzi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldcadugU7oxKk8h4ZXRmNGPESs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.VhrApplication">
+    <configuration name="MailserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.mailserver.MailserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VhrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vhr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.vhr.VhrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ac0789-4364-44db-b776-578ad233f7a9" name="Default Changelist" comment="" />
+      <created>1607930474820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607930474820</updated>
+      <workItem from="1607930475862" duration="3330000" />
+      <workItem from="1607947444246" duration="604000" />
+      <workItem from="1608083503063" duration="3496000" />
+      <workItem from="1608091402531" duration="127000" />
+      <workItem from="1608091967907" duration="4907000" />
+      <workItem from="1608099224108" duration="112000" />
+      <workItem from="1608099587607" duration="8430000" />
+      <workItem from="1608171236738" duration="68000" />
+      <workItem from="1608171346161" duration="719000" />
+      <workItem from="1608190215902" duration="49000" />
+      <workItem from="1608191172763" duration="507000" />
+      <workItem from="1608191699935" duration="219000" />
+      <workItem from="1608195703019" duration="370000" />
+      <workItem from="1608196203051" duration="306000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1608196332492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608196332492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1608191765155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608191765155" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1608191765155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608191765155" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1608191765155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608191765155" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1608191765155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608191765155" />
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.1.center" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.1.left" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.1.right" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.2.bottom" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.2.center" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.2.left" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state width="1493" height="182" key="GridCell.Tab.2.right" timestamp="1608191684073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608191684073" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1607930495819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607930495819" />
+  </component>
+</project>
