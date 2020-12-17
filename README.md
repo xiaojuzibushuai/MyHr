@@ -3,6 +3,6 @@
 松哥主页:https://github.com/lenve
 运行前请准备以下三个环境:
 1、Mysql数据库创建vhr  utf8 数据库
-2、 abbitMQ 服务启动
+2、 RabbitMQ 服务启动
 3、 Redis 服务启动
 如果要部署到服务器 请自行修改发布环境配置文件~
